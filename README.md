@@ -48,19 +48,51 @@ They didn't analysis the performence of the model.
 
 
 --------------------------------------------------------------------------------------------------------------
-Title of presentation:
+Title of presentation: Game
 
 What were aspects of the presentation that you liked:
+The topic is interesting. The feature building is carefully designed.
 
 What were aspects of the presentations for which you had concerns or questions:
 
 
 
 --------------------------------------------------------------------------------------------------------------
-Title of presentation:
+Title of presentation: H1B
 
 What were aspects of the presentation that you liked:
+Very clear to understand.
 
 What were aspects of the presentations for which you had concerns or questions:
 
+--------------------------------------------------------------------------------------------------------------
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked:
+The visulization is great. The presentation is very logical.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+--------------------------------------------------------------------------------------------------------------
+Title of presentation: Song
+
+What were aspects of the presentation that you liked:
+Great visuallization.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+--------------------------------------------------------------------------------------------------------------
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked:
+Great presentation. The result is fun!
+
+What were aspects of the presentations for which you had concerns or questions:
+--------------------------------------------------------------------------------------------------------------
+Title of presentation: Terrorist
+
+What were aspects of the presentation that you liked:
+Nice story. Obvious comparaion in the visuallization.
+
+What were aspects of the presentations for which you had concerns or questions:
 
